@@ -1,0 +1,43 @@
+
+
+
+body {
+    background: url(https://raw.githubusercontent.com/Tibedo/Destination-de-r-ve/emre/img/pyramid.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+.food {
+    width: 50%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 191, 0);
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 100px;
+    font-size: larger;
+}
+
+.hamam, .koshary, .oum {
+    background-color: rgb(233, 134, 13);
+    padding: 4px;
+    font-size: larger;
+    margin: 20px;
+    border: 3px solid rgb(221, 96, 0);
+    display: flex;
+
+}
+
+h1 {
+    font-size: xx-large;
+    border: 5px solid black;
+}
+h3 {
+    font-size:x-large;
+}
+
+article.hamam.koshary p { 
+    line-height: 23px;
+}
