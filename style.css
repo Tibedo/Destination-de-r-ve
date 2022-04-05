@@ -17,6 +17,7 @@ ul{
     
     
     
+    
 
     
 
@@ -25,9 +26,9 @@ ul{
 }
 
 li{
-    padding-right: 100px;
-    position: relative;
-    left: 100px;
+    
+   padding-right: 100px;
+   font-size: 20px;
 }
 
  a{
