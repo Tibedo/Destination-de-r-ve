@@ -26,6 +26,8 @@ ul{
 
 li{
     padding-right: 100px;
+    position: relative;
+    left: 100px;
 }
 
  a{
