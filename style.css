@@ -1,0 +1,27 @@
+body{
+    background-image:url(./img/3776.jpg);
+    color: white;
+}
+
+nav{
+    background-color: blue;
+    width: 100%;
+}
+
+
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a{
+    color: white;
+}
+
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 200px;
+}
